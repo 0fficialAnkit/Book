@@ -20,11 +20,6 @@ The database consists of the following key tables:
 
 ## Setup Instructions
 
-### Clone the Repository
-
-```sh
-git clone https://github.com/vansh1505/Guvi-sem3-2024-project.git
-```
 
 ### Install MySQL
 
