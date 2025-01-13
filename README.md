@@ -40,4 +40,4 @@ Update the database connection settings in the `DBUtil` class to match your MySQ
 - **Apache Tomcat** for the web server.
 - **Tailwind** for front-end styling.
 
-## By Team - 9
+## By Team - KASUKABE
